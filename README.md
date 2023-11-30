@@ -32,3 +32,5 @@ Add the code to call the Translator service. Test the application and seeing tex
 <img width="708" alt="image" src="https://user-images.githubusercontent.com/63901956/169641842-7186916c-2648-440e-84b4-6fd6ec7d9192.png">
 
 Access the application at: https://texttransalator.azurewebsites.net/
+
+**Link might not work due to collapse of Azure subscription, but you can clone this repository and host the application on your Azure subscription to make it work**
